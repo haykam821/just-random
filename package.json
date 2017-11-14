@@ -1,0 +1,11 @@
+{
+  "name": "just-random",
+  "version": "1.0.0",
+  "description": "Picks out random integers, key/value pairs from an object, booleans, elements in an array, or words in a string.",
+  "main": "index.js",
+  "keywords": [
+    "random"
+  ],
+  "author": "",
+  "license": "MIT"
+}
